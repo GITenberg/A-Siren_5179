@@ -1,0 +1,26 @@
+_repo: A-Siren_5179
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Trollope, Thomas Adolphus
+    alias: Trollope, T. Adolphus (Thomas Adolphus)
+    birthdate: 1810
+    deathdate: 1892
+    gutenberg_agent_id: '1723'
+    url: http://www.gutenberg.org/2009/agents/1723
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5179'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fiction'
+- !lcsh 'Detective and mystery stories'
+- GITenberg
+title: A Siren
+url: http://www.gutenberg.org/ebooks/5179
